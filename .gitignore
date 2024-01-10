@@ -1,3 +1,6 @@
 .*/
 .DS*
 *.pyc
+/Denoising/Datasets
+/Denoising/pretrained_models
+/Denoising/results
